@@ -1,4 +1,4 @@
-# Reasoned Refusal in LLMs: Deepening Safety Alignment
+# Reasoned Refusal in LLMs: Deepening Safety Alignment in LLMs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Model: Qwen 2.5](https://img.shields.io/badge/Model-Qwen%202.5%203B-blue)](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct)
